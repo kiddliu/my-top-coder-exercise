@@ -1,4 +1,3 @@
-
 export default class ZigZag {
   longestZigZag(sequence: number[]): number {
     if (sequence.length === 0) return 0;
