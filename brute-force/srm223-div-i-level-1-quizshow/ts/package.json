@@ -33,7 +33,8 @@
     "globals": {
       "ts-jest": {
         "tsConfig": {
-          "target": "ES6"
+          "target": "ES6",
+          "esModuleInterop": true
         }
       }
     }
